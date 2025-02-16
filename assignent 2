@@ -1,1 +1,18 @@
-<!DOCTPE html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>INTRODUCTION</title>
+    </head>
+    <Body>
+        <h1>The school name  </h1>
+        <b>Liberty college</b><br>
+        <h2>The school motto</h2>
+        <b>Make haste slowly</b><br>
+        <h3>The Primary and Secondary school</h3>
+        <b>I am in Secondary school</b><br>
+        <h3>The subject i do are:</h3>
+        <b>Mathematics, English, Chemistry, Physics, Biology, Agric, Geography, Economics, Further Mathematics,Civic, Data Processing, Coding, Computer Science</b><br>
+        <h4>My favourite subject are:</h4>
+        <b>Mathematics, Geography, Further Maths</b><br>
+    </Body>
+</html>
